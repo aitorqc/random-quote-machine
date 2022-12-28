@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aitorqc/random-quote-machines/static/css/main.93eeccb7.css",
+    "main.js": "/aitorqc/random-quote-machines/static/js/main.0ca25483.js",
+    "index.html": "/aitorqc/random-quote-machines/index.html",
+    "main.93eeccb7.css.map": "/aitorqc/random-quote-machines/static/css/main.93eeccb7.css.map",
+    "main.0ca25483.js.map": "/aitorqc/random-quote-machines/static/js/main.0ca25483.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93eeccb7.css",
+    "static/js/main.0ca25483.js"
+  ]
+}
